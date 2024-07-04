@@ -1,1 +1,1 @@
-Motorola Edge S/S Pro (nio/pstar) KernelSU-Kernel Build
+Motorola EdgeS/G100 (nio) KernelSU-Kernel Build
